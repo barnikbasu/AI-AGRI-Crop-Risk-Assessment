@@ -4,19 +4,29 @@
 Risk Assessment for Crop Selection Under Climate Variability
 
 ## Objective
-To assess agricultural crop-selection risks using AI and climate-related parameters.
+To assess agricultural crop-selection risks using AI and machine learning techniques.
 
 ## Technologies Used
 - Python
-- Google Sheets
 - Google Colab
-- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## Machine Learning Model
+Random Forest Classifier
+
+## Results
+- Achieved approximately 91% accuracy
+- Identified important agricultural risk factors
+- Improved predictions using feature engineering
 
 ## Files Included
-- Final Report
+- Final Project Report
 - Dataset
-- Screenshots
 - Colab Notebook
+- Screenshots
 
 ## Author
 Barnik Basu
