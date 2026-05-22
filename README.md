@@ -187,7 +187,7 @@ AI-AGRI-Crop-Risk-Assessment/
 Add your Colab notebook link here:
 
 ```text
-https://colab.research.google.com/drive/XXXXXXXXXXXX
+(https://colab.research.google.com/drive/1cL6Hq5PJYgkTrruHLBQrllaId13UUiK5?usp=sharing)
 ```
 
 ---
@@ -197,7 +197,7 @@ https://colab.research.google.com/drive/XXXXXXXXXXXX
 Repository Link:
 
 ```text
-https://github.com/barnikbasu/AI-AGRI-Crop-Risk-Assessment
+(https://github.com/barnikbasu/AI-AGRI-Crop-Risk-Assessment)
 ```
 
 ---
