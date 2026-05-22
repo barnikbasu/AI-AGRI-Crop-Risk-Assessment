@@ -1,10 +1,10 @@
-AI-AGRI Crop Risk Assessment using Machine Learning
+## AI-AGRI Crop Risk Assessment using Machine Learning
 
 An AI-based agricultural risk assessment project designed to analyze crop-selection risks under climate variability conditions using supervised machine learning techniques.
 
 This project demonstrates how agricultural datasets, feature engineering, and Random Forest classification can be used to predict crop risk categories based on environmental and farming-related parameters.
 
-Project Objective
+## Project Objective
 
 The main objective of this project is to predict agricultural crop-selection risks using AI and machine learning by analyzing factors such as:
 
@@ -18,7 +18,7 @@ Pest risk
 
 The project focuses on understanding how agricultural decisions influence crop-risk outcomes and how AI can assist in data-driven farming practices.
 
-Problem Statement
+## Problem Statement
 
 Traditional agricultural decision-making often relies on:
 
@@ -35,7 +35,7 @@ Increased agricultural risk
 
 This project explores how machine learning can help model and predict these risks using structured agricultural datasets.
 
-Technologies Used
+## Technologies Used
 Technology	Purpose
 Python	Programming Language
 Google Colab	Model Development Environment
