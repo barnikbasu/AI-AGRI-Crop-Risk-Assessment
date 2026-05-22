@@ -184,7 +184,7 @@ AI-AGRI-Crop-Risk-Assessment/
 
 # Google Colab Notebook
 
-Add your Colab notebook link here:
+Google Colab notebook Link:
 
 ```text
 (https://colab.research.google.com/drive/1cL6Hq5PJYgkTrruHLBQrllaId13UUiK5?usp=sharing)
